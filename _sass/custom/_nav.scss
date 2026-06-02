@@ -38,7 +38,7 @@
     padding: 25px 15px 15px 15px;
 }
 
-.spa-logo {
+.apa-icon {
     // width: 36px;
     // height: 50px;
     height: 75px;
@@ -48,21 +48,21 @@
     fill: $brand-primary;
 }
 
-.spa-logo path, .spa-logo polygon {
+.apa-icon path, .apa-icon polygon, .apa-icon rect {
     -webkit-transition: all 1s;
     -moz-transition: all 1s;
     transition: all 1s;
 }
 
-.spa-logo polygon, .spa-logo path {
+.apa-icon polygon, .apa-icon path, .apa-icon rect {
     // fill: rgba(255,255,255,.7);
     fill: $brand-primary;
 }
-.spa-logo:hover {   
+.apa-icon:hover {   
     fill: $brand-primary;
 }
 
-.spa-logo:hover {   
+.apa-icon:hover {   
     fill: $brand-primary;
 }
 
