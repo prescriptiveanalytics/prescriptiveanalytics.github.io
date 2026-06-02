@@ -6,6 +6,9 @@ lang: de
 <section class="bg-primary-light" id="info">
     <div class="container">
         <h2 class="section-heading">Projektinformation</h2>
+        
+        
+        <!--
         <div class="row">
             <div class="col-lg-7 col-md-12">
                  <p class="text-justify">
@@ -36,20 +39,22 @@ lang: de
                 <figure class="image-box"><img id="image-sketch3" src="/{{ site.data.assets.image-sketch3 }}" /></figure>
             </div>
         </div>
+        -->
+
         <div class="row">
             <div class="col-lg-12 col-md-12">
                 <p class="text-justify">
-                    Das Projekt Secure Prescriptive Analytics wird durch das Land Oberösterreich finanziert als Teil des Programms des Landes Oö. zur Stimulierung der Erschließung / Erweiterung von zukunftsweisenden Forschungsfeldern bei den Oö. außeruniversitären Forschungseinrichtungen im Zeitraum 01.01.2022 – 31.12.2029. Nähere Informationen zur Wirtschafts- und Forschungsstrategie #upperVISION2030 (Handlungsfeld "Digitale Transformation") unter <a href="{{ site.data.i18n.t.footer.uv30-link[page.lang] }}">www.uppervision.at</a>.
+                    Das Projekt Auto Prescriptive Analytics wird durch das Land Oberösterreich finanziert als Teil des Programms des Landes Oö. zur Stimulierung der Erschließung / Erweiterung von zukunftsweisenden Forschungsfeldern bei den Oö. außeruniversitären Forschungseinrichtungen im Zeitraum 01.01.2022 – 31.12.2029. Nähere Informationen zur Wirtschafts- und Forschungsstrategie #upperVISION2030 (Handlungsfeld "Digitale Transformation") unter <a href="{{ site.data.i18n.t.footer.uv30-link[page.lang] }}">www.uppervision.at</a>.
                 </p>
             </div>
             <div class="col-lg-12 col-md-12 facts">
                 <div>
                 <h4 class="info-headline">Projektdaten</h4>
                 <table class="info-table">
-                    <tr><td>Titel:</td><td>Secure Prescriptive Analytics</td></tr>
-                    <tr><td>Laufzeit:</td><td>01/2022 - 12/2025</td></tr>
+                    <tr><td>Titel:</td><td>Auto Prescriptive Analytics</td></tr>
+                    <tr><td>Laufzeit:</td><td>01/2026 - 12/2029</td></tr>
                     <tr><td>Team:</td><td>FH Oberösterreich Campus Hagenberg, RISC Software GmbH, SCCH Software Competence Center GmbH</td></tr>
-                    <tr><td>Themen:</td><td>Dynamic Optimization, Modeling and Simulation, Interpretable & Privacy-Preserving Machine Learning</td></tr>
+                    <tr><td>Themen:</td><td>Dynamic Optimization, Modeling and Simulation, Interpretable Machine Learning, Agentic AI</td></tr>
                     <tr><td>Fördergeber:</td><td>Land Oberösterreich, nähere Informationen unter <a href="{{ site.data.i18n.t.footer.uv30-link[page.lang] }}">www.uppervision.at</a></td></tr>
                 </table>
                 </div>

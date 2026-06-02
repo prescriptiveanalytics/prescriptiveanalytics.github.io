@@ -18,19 +18,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Secure Prescriptive Analytics
-title_tail: " - Secure Prescriptive Analytics"
+title: Auto Prescriptive Analytics
+title_tail: " - Auto Prescriptive Analytics"
 email: michael.affenzeller@fh-ooe.at
 description: #>- # this means to ignore newlines until "baseurl:"
-  de: Das Forschungsprojekt Secure Prescriptive Analytics setzt sich zum Ziel das durch die Kombination von Modellierung und Simulation, Optimierung, Interpretable und Privacy-Preserving Machine Learning entstehende Potential zu heben.
-  en: The research project Secure Prescriptive Analytics aims to leverage the potential of combining modeling and simulation, optimization, interpretable and privacy-preserving machine learning.
+  de: Das Forschungsprojekt Auto Prescriptive Analytics setzt sich zum Ziel das durch die Kombination von Modellierung und Simulation, Optimierung, Interpretable Machine Learning und Agentic AI entstehende Potential zu heben.
+  en: The research project Auto Prescriptive Analytics aims to leverage the potential of combining modeling and simulation, optimization, interpretable machine learning and agentic AI.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.prescriptiveanalytics.at" # the base hostname & protocol for your site, e.g. http://example.com
 lang: de
-author: Secure Prescriptive Analytics
+author: Auto Prescriptive Analytics
 keywords: modeling and simulation, optimization, interpretable machine learning, privacy-preserving machine learning, surrogate modeling
-# twitter_username: spa
-# github_username:  spa
+# twitter_username: apa
+# github_username:  apa
 
 # SEO
 google_analytics: true
