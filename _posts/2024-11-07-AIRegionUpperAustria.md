@@ -1,7 +1,7 @@
 ---
 layout: post
 lang: de
-title: ""
+title: "Folgeprojekte"
 description: "Im Zuge der Forschungsstrategie #upperVISION2030 und dem Call AI Region Upper Austria wurden zwei Anträge aus dem SPA Kontext akzeptiert."
 keywords: Folgeprojekte
 date: 2024-11-06 12:00 +0200
